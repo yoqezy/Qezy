@@ -12,7 +12,7 @@
 ![stats](https://github-readme-stats.vercel.app/api?username=yoqezy&show_icons=true&theme=dark)
 
 # Contact
-Qwzy#1337 - Discord </br>
+Qezy#1337 - Discord </br>
 itsqezy -   Twitter </br>
 
 # Qezy
