@@ -17,7 +17,7 @@ itsqezy -   Twitter </br>
 
 # Qezy
 <p align="center">
-  <a href="https://github.com/Qezy">
-    <img src="https://cdn.discordapp.com/avatars/733453824446038036/a_cd7421bb771324d3ee85805f61ded248.gif?size=1024"/>
+  <a href="https://github.com/yoqezy">
+    <img src="https://cdn.discordapp.com/avatars/733453824446038036/e75c28a9bfa4683675d2af28e0d33d19.png?size=1024"/>
      </a>
 </p>
